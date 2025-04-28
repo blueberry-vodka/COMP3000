@@ -1,0 +1,132 @@
+
+ui_bosscome.png
+size: 881,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss
+  rotate: false
+  xy: 364, 78
+  size: 250, 76
+  orig: 250, 76
+  offset: 0, 0
+  index: -1
+boss1
+  rotate: false
+  xy: 2, 3
+  size: 141, 54
+  orig: 141, 54
+  offset: 0, 0
+  index: -1
+come
+  rotate: false
+  xy: 2, 59
+  size: 360, 95
+  orig: 360, 95
+  offset: 0, 0
+  index: -1
+come1
+  rotate: false
+  xy: 534, 12
+  size: 196, 64
+  orig: 196, 64
+  offset: 0, 0
+  index: -1
+dd_4
+  rotate: false
+  xy: 829, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+flare1_orange4
+  rotate: false
+  xy: 732, 54
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sdxs_01
+  rotate: true
+  xy: 462, 3
+  size: 25, 70
+  orig: 32, 128
+  offset: 1, 3
+  index: -1
+sdxs_02
+  rotate: false
+  xy: 834, 59
+  size: 31, 95
+  orig: 32, 128
+  offset: 1, 8
+  index: -1
+sdxs_03
+  rotate: true
+  xy: 732, 21
+  size: 31, 95
+  orig: 32, 128
+  offset: 1, 11
+  index: -1
+sdxs_04
+  rotate: true
+  xy: 416, 30
+  size: 31, 115
+  orig: 32, 128
+  offset: 1, 12
+  index: -1
+sdxs_05
+  rotate: true
+  xy: 320, 27
+  size: 30, 94
+  orig: 32, 128
+  offset: 1, 33
+  index: -1
+sdxs_06
+  rotate: true
+  xy: 616, 124
+  size: 30, 88
+  orig: 32, 128
+  offset: 1, 39
+  index: -1
+sdxs_07
+  rotate: true
+  xy: 616, 95
+  size: 27, 70
+  orig: 32, 128
+  offset: 4, 57
+  index: -1
+sdxs_08
+  rotate: false
+  xy: 706, 97
+  size: 24, 57
+  orig: 32, 128
+  offset: 6, 60
+  index: -1
+tth_01
+  rotate: true
+  xy: 145, 27
+  size: 30, 173
+  orig: 30, 181
+  offset: 0, 0
+  index: -1
+tth_02
+  rotate: true
+  xy: 145, 3
+  size: 22, 157
+  orig: 30, 179
+  offset: 1, 13
+  index: -1
+tth_04
+  rotate: true
+  xy: 304, 4
+  size: 21, 156
+  orig: 30, 181
+  offset: 4, 13
+  index: -1
+tth_06
+  rotate: true
+  xy: 364, 63
+  size: 13, 161
+  orig: 30, 181
+  offset: 7, 12
+  index: -1
